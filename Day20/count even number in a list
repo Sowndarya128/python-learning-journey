@@ -1,0 +1,8 @@
+num = [12,5,6,8,24,23,55]
+count = 0
+for i in num:
+  if i % 2 == 0:
+    count += 1
+print(count)
+  
+  
